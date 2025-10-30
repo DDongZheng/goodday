@@ -1,6 +1,7 @@
+# 数据表模型
 from django.db import models
 
-Class Goodthing(models.Model):
+class Goodthing(models.Model):
     content = models.TextField()
     likes_count = models.IntegerField(default=0)
     not_good_count = models.IntegerField(default=0)
