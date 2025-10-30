@@ -9,8 +9,8 @@ A social micro-platform where everyone can anonymously share one good thing they
 ### Week 1 ― Backend Foundation
 - [x] GitHub repository initialized
 - [x] Django + DRF + PostgreSQL environment setup
-- [ ] GoodDeed model + migrations
-- [ ] API: create & list GoodDeeds
+- [x] GoodThing model + migrations
+- [x] API: create & list GoodThing 
 - [ ] Admin interface
 - [ ] Local Docker environment
 
